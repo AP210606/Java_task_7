@@ -5,7 +5,7 @@ public class HRSystem {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/company";
     private static final String DB_USER = "root";
-    private static final String DB_PASS = "Harsh112183"; // change if needed
+    private static final String DB_PASS = "AP210066"; 
 
     public static void main(String[] args) {
         try {
